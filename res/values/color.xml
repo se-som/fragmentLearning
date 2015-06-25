@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="default_progress_bar_color">#FF33B5E5</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="green_light">#306846</color>
+    <color name="green">#01380B</color>
+    <color name="blue">#305299</color>
+
+    <!-- Metarial Colors -->
+    <color name="Primary">#F44336</color>
+    <color name="PrimaryDark">#D32F2F</color>
+    <color name="Accent">#FF1744</color>
+    <color name="WindowBackground">#E3F2FD</color>
+    <color name="navigatonBar">#F44336</color>
+    
+    
+    <color name="grey_solo">#EDEEEE</color>
+    <color name="text_color">#6F6E6E</color>
+    <color name="gray">#C8C9C9</color>
+    <color name="black">#000000</color>
+    <color name="gray_nor">#C8C9C9</color>
+    <color name="green_solo">#EFFBF2</color>
+    <color name="gray_dark">#999</color>
+    <color name="gray_darker">#888</color>
+    <color name="con">#F5F5F5</color>
+    <color name="gray_light">#ddd</color>
+    <color name="white">#fff</color>
+    <color name="light">#F2F2F2</color>
+    <color name="green_light_txt">#23a656</color>
+
+</resources>

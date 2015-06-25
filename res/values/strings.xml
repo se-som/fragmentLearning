@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fragementLearning</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login screen -->
+    <string name="activate_id_hint">Enter activation id</string>
+    <string name="pin_code_hint">Enter PIN code</string>
+    <string name="password_hint">Enter password</string>
+    <string name="your_phone_have_no_money">Your phone have no money! </string>
+    <string name="you_mush_send_by_server">You mush send SMS by sever </string>
+    <string name="send_sms">Send SMS:</string>
+    <string name="type_sub_pwd">Type submission password:</string>
+    <string name="site_hint">Enter server site</string>
+    <string name="login">Login</string>
+    <string name="login_message">Please wait, loging in&#8230;</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="activate_app">Activate App</string>
+    <string name="activate_id">Activate ID</string>
+    <string name="pin_code">PIN code</string>
+    <string name="site">Site</string>
+    <string name="login_failed_no_internet_connection">Sorry, unable to login to TradeCensus. Please check your network connection or try again later.</string>
+    <string name="login_failed_require_field">Sorry, unable to login to TradeCensus. Please enter all fields required.</string>
+    <string name="login_failed_server">Sorry, unable to login to TradeCensus. Please check your server site or try again later.</string>
+    <string name="welcome">WELCOME</string>
+    <string name="menu">MENU</string>
+    <string name="camera">Take Photo</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="activate">Activate</string>
+    <string name="outlet_trade_census">OUTLET TRADE CENSUS</string>
+    <string name="ok">OK</string>
+    <string name="remak_reason">Remark/Reason:</string>
+    <!-- Menu Screen -->
+
+    <string name="outlet">Outlet</string>
+    <string name="submission">Submission</string>
+    <string name="approval">Approval</string>
+    <string name="download">Download</string>
+    <string name="setting">Setting</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="approved">Approved</string>
+    <string name="wait_appr">Waiting for approval</string>
+    <string name="reject">Rejected</string>
+    <string name="selete_all">Select all</string>
+    <string name="alert">Alert</string>
+    <string name="edit_outlet_list">Edited Outlet list</string>
+    <string name="original_outlet_list">Original Outlet list</string>
+    <string name="data_downloading">Please wait! Data is downloading&#8230;</string>
+    <string name="location_fining">Location is finding&#8230;</string>
+
+    <!-- Setting Screen -->
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old password</string>
+    <string name="old_password_hint">Enter old password</string>
+    <string name="new_password">New Password</string>
+    <string name="new_password_hint">Enter new password</string>
+    <string name="your_password">Enter your password:</string>
+    <string name="change">Change</string>
+    <string name="existing">Existing</string>
+    <string name="type_here">Type here&#8230;</string>
+    <string name="type_descrip">Type your description</string>
+    <string name="new_label">New</string>
+    <string name="pending_outlets">Pending Outlets</string>
+    <string name="rejected_outlets">Rejected Outlets</string>
+    <string name="submit_outlets">Submited Outlets</string>
+    <string name="temporary">Temporary</string>
+    <string name="permanent">Permanent</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="warning">Warning</string>
+
+    <!-- Outlet Details -->
+    <string name="outlet_name">Outlet Name</string>
+    <string name="address">Address</string>
+    <string name="region">Region</string>
+    <string name="open_date">Open Date</string>
+    <string name="sale_rep">Sale Rep</string>
+    <string name="pro_city">Pro/City</string>
+    <string name="profile">Profile</string>
+    <string name="dis_khan">Dis/Khan</string>
+    <string name="com_skt">Com/Skt</string>
+    <string name="house_vlg">House/Vlg</string>
+    <string name="channel_segment">Channel Segment</string>
+    <string name="distributor_area">Distributor Area</string>
+    <string name="signage_available">Signage</string>
+    <string name="draught_available">Draught</string>
+    <string name="number_distribution">Number Distribution</string>
+    <string name="type">Type</string>
+    <string name="outlet_state">Outlet State</string>
+    <string name="category">Category</string>
+    <string name="manager_name">Mgr Name</string>
+    <string name="manager_phone">Mgr Phone</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="owner">Owner</string>
+    <string name="owner_phone">Phone</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="sale_rep_phone">Sale Rep Phone</string>
+    <string name="outlet_remarks">Remark</string>
+    <string name="distributor_name">Distributor</string>
+    <string name="distributor_phone">Distributor Phone</string>
+    <string name="call_freq">Call Freq.</string>
+    <string name="supplier_by">Supplier By</string>
+    <string name="distributor">Distributor</string>
+    <string name="grade">Grade</string>
+    <string name="supervisor">Supervisor</string>
+    <string name="outlet_action">Outlet Action</string>
+    <string name="editing_outlet_info">Editing Outlet Info</string>
+    <string name="new_outlet_info">New Outlet Info.</string>
+    <string name="ams">AMS</string>
+    <string name="leave_without_save">Do you want to leave without saving?</string>
+    <string name="smsOption">SMS Option</string>
+    <string name="settingMenu">Setting Menu</string>
+    <string name="three_dot">&#8230;</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+
+    <!-- photo -->
+    <string name="photo">Photo</string>
+
+    <string-array name="tab_title">
+        <item>Outlet</item>
+        <item>Updated List</item>
+    </string-array>
+    <string-array name="tab_outlet_status">
+        <item>Outlet Submission</item>
+        <item>Approval Status</item>
+    </string-array>
+
+    <!-- Province -->
+    <string-array name="province">
+        <item>Battambang</item>
+        <item>Phnom Penh</item>
+        <item>Siem Reap</item>
+    </string-array>
+
+    <!-- Region -->
+    <string-array name="region">
+        <item>Central</item>
+        <item>North West</item>
+        <item>South</item>
+        <item>East</item>
+        <item>North East</item>
+        <item>North</item>
+    </string-array>
+
+    <!-- Grade -->
+    <string-array name="grade">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <!-- Call Freq -->
+    <string-array name="call_fre">
+        <item>1 per month</item>
+        <item>2 per month</item>
+        <item>3 per month</item>
+        <item>4 per month</item>
+    </string-array>
+
+    <!-- Type -->
+    <string-array name="type">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+
+    <!--  -->
+    <string-array name="available">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <!--  -->
+    <string-array name="settingPupup">
+        <item>SMS Option</item>
+        <item>Change Password</item>
+    </string-array>
+
+    <!-- Approval -->
+    <string name="original_outlet_info">Original Outlet Information</string>
+    <string name="edit_outlet_info">Edited Outlet Information</string>
+
+</resources>
